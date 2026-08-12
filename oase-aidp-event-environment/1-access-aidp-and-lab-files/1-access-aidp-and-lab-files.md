@@ -38,7 +38,7 @@ This lab assumes you have:
 
 ## Task 2: Access Lab Files
 
-1. Now that you are set up in your AIDP instance, click this hyperlink to download the lab files. Unzip the files and open the lab-guide.pdf file. Follow the instructions in that document to complete the lab.
+1. Now that you are set up in your AIDP instance, [click this hyperlink to download the lab files](https://axqurh31kd2o.objectstorage.us-ashburn-1.oci.customer-oci.com/n/axqurh31kd2o/b/Green-Button-Lab-Instructions/o/lab-files.zip). Unzip the files and open the lab-guide.pdf file. Follow the instructions in that document to complete the lab.
 
 ## Learn More
 
