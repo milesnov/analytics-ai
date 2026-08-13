@@ -6,6 +6,13 @@ In this short livelabs section, you will access the AIDP instance created by you
 
 Estimated Workshop Time: 10 minutes
 
+### Objectives
+
+In this lab, you will:
+
+- Access your AIDP instance.
+- Continue from here with the lab guide
+
 ## Learn More
 
 - [Oracle AI Data Platform Community Site](https://community.oracle.com/products/oracleaidp/)
